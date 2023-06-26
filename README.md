@@ -1,3 +1,4 @@
+![logo](https://github.com/PrasadJadhav-3536/PrasadJadhav-3536/blob/main/VISUALIZATION.png)
 <h1 align="center">Hi 👋, I'm Prasad Jadhav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
